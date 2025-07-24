@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou a Laura Carvalho</h1>
-<h3 align="center">Apaixonada por desvendar os insights ocultos nos dados, sou uma entusiasta da análise de dados e Business Intelligence</h3>
+<h3 align="center">Apaixonada por desvendar os insights ocultos nos dados, sou uma analista de dados com foco em Business Intelligence, trazendo sempre análises criativas a fim de impulsionar negócios</h3>
 
 - 🌱 Atualmente estou aprendendo **SQL, Python, Machine learning e Tableau**
 
