@@ -75,7 +75,4 @@ Python & Análise
 
 
 
-📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lauracarvalhg&show_icons=true&locale=en&layout=compact&theme=default" alt="lauracarvalhg"/>
 </p>
